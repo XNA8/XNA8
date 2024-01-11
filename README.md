@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I am Xavier!
 
-<!--
-**XNA8/XNA8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my Universities subjects.
+- 
+- 🌱 I’m currently learning:
+- 
+-Europena geography
+-Història of the world science
+-History of the reading
+-How to learn new interaction tools and move throug it
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on something relactionated with literature. Could be some editorial sector or maybe just an openning door to some letters sector or group.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: xavierN27@gmail.com
+- 
+- 😄 Pronouns: he/him
+
 -->
