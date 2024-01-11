@@ -1,9 +1,6 @@
 ### Hi there 👋 I am Xavier!
-
 - 🔭 I’m currently working on my Universities subjects.
-- 
-- 🌱 I’m currently learning:
-- 
+  - 🌱 I’m currently learning:
 -Europena geography
 -Història of the world science
 -History of the reading
